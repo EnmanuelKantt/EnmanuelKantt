@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel</h1>
+<h1 align="center">Hi 👋, I'm Enmanuel</h1>
 <h3 align="center">Software Engineering Student | Visual Artist | Multilingual</h3>
 
 - 🔭 I’m currently working on **a web app about financial literacy for kids (Technovation Girls project)**  
